@@ -1,8 +1,8 @@
-/* main.c */
+#include <stdio.h>
 #include "cdd.h"
 
 int main(int argc, char** argv) {
-    printf("привет мир!\n");
     make_up(argc, argv);
+    printf("Operation completed\n");
     return 0;
 }

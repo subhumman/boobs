@@ -1,4 +1,3 @@
-/* cdd.h */
 #ifndef CDD_H
 #define CDD_H
 
